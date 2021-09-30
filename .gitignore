@@ -1,5 +1,6 @@
 /node_modules
 /.idea
+/artifacts
 .DS_Store
 logs
 *.log

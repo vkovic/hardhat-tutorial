@@ -8,7 +8,7 @@ contract Token {
 
     uint256 public totalSupply = 1000;
 
-address public owner;
+    address public owner;
     mapping(address => uint256) balances;
 
     constructor() {
